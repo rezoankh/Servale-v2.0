@@ -2,8 +2,6 @@
 
 Made with Core PHP and Bootstrap CSS Framework. 🤍
 
-![visitors](https://bit.ly/30KYszm)
-
 ## Run Locally
 
 Clone the project
@@ -41,6 +39,15 @@ username: m@m.com  password: m
 
 ## Home Page
 ![](screenshots/homepage.png)
+![](screenshots/1.png)
+![](screenshots/2.png)
+![](screenshots/3.png)
+![](screenshots/4.png)
+![](screenshots/5.png)
+![](screenshots/6.png)
+![](screenshots/7.png)
+![](screenshots/8.png)
+
 
 ## Candidates can login and apply for various jobs, Update their information, Email recruiters etc.
 
