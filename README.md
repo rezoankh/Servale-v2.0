@@ -7,7 +7,7 @@ Made with Core PHP and Bootstrap CSS Framework. 🤍
 Clone the project
 
 ```bash
-  git clone https://github.com/rezoankh/Servale-v2.git
+  git clone https://github.com/rezoankh/Servale-v2.0.git
 ```
 
 import the git_repos_jobportal.sql in the xampp mysql database.
